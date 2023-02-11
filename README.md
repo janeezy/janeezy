@@ -1,5 +1,7 @@
-- 👋 Hi, I’m jane Duru aka @janeezy
-- 👀 I’m a Junior front end web developer ...
+- 👋 Hi, I’m Jane Duru aka @janeezy
+- 👀 I’m a Front-End Web Developer, amongst many other things. 
+- I enjoy probem solving and i'm learning more everyday .
+- I started transitioning to tech arround october 2022. 
 - 💞️ I’m looking to collaborate on  any projects...
 - 📫 say hi...
 
