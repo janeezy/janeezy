@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Jane Duru aka @janeezy
+- 👋 Hi, I’m E.A Jane Duru aka @janeezy
 - 👀 I’m a Front-End Web Developer, amongst many other things. 
 - I enjoy probem solving and i'm learning more everyday .
 - I started transitioning to tech arround october 2022. 
