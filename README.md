@@ -6,7 +6,7 @@
 - Willingness to take on added responsibilities to meet team goals.
  
 - 💞️ I’m looking to collaborate on  any projects...
-- 📫 say hi...
+- 📫 say hi... https://www.linkedin.com/in/janeezy/
 
 <!---
 janeezy/janeezy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
