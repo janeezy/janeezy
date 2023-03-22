@@ -25,6 +25,6 @@
 
 (❀❛ ֊ ❛„)♡
  
-- 💞️ I’m looking to collaborate on  any projects...
+- 💞️ 
 - 📫 say hi... https://www.linkedin.com/in/janeezy
 
