@@ -1,10 +1,15 @@
 ꧁⭑⭒ 
 
-𝖥𝗋𝗈𝗇𝗍-𝖾𝗇𝖽 𝖾𝗇𝗀𝗂𝗇𝖾𝖾𝗋, 𝖼𝗈𝗆𝗆𝗂𝗍𝗍𝖾𝖽 𝗍𝗈 𝗀𝗋𝗈𝗐𝗍𝗁 𝖺𝗇𝖽 𝗅𝖾𝖺𝗋𝗇𝗂𝗇𝗀, 𝗐𝗂𝗍𝗁 𝖺 𝖽𝖾𝗌𝗂𝗋𝖾 𝗍𝗈 𝖼𝗈𝗇𝗍𝗋𝗂𝖻𝗎𝗍𝖾 𝗍𝗈 𝖺 𝗅𝖺𝗋𝗀𝖾𝗋 𝖽𝖾𝗏𝖾𝗅𝗈𝗉𝗆𝖾𝗇𝗍 𝗍𝖾𝖺𝗆. 𝖮𝗋𝗀𝖺𝗇𝗂𝗓𝖾𝖽 𝖺𝗇𝖽 𝖽𝖾𝗉𝖾𝗇𝖽𝖺𝖻𝗅𝖾 𝖼𝖺𝗇𝖽𝗂𝖽𝖺𝗍𝖾 𝗌𝗎𝖼𝖼𝖾𝗌𝗌𝖿𝗎𝗅 𝖺𝗍 𝗆𝖺𝗇𝖺𝗀𝗂𝗇𝗀 𝗆𝗎𝗅𝗍𝗂𝗉𝗅𝖾 𝗉𝗋𝗂𝗈𝗋𝗂𝗍𝗂𝖾𝗌 𝗐𝗂𝗍𝗁 𝖺 𝗉𝗈𝗌𝗂𝗍𝗂𝗏𝖾 𝖺𝗍𝗍𝗂𝗍𝗎𝖽𝖾. 
+My name is Jane Duru, and I am a self-taught front-end engineer who is ready to make an impact. With less than a year of experience, I have achieved a lot and am hungry for more opportunities to develop my programming skills.
 
-𝖶𝗂𝗅𝗅𝗂𝗇𝗀𝗇𝖾𝗌𝗌 𝗍𝗈 𝗍𝖺𝗄𝖾 𝗈𝗇 𝖺𝖽𝖽𝖾𝖽 𝗋𝖾𝗌𝗉𝗈𝗇𝗌𝗂𝖻𝗂𝗅𝗂𝗍𝗂𝖾𝗌 𝗍𝗈 𝗆𝖾𝖾𝗍 𝗍𝖾𝖺𝗆 𝗀𝗈𝖺𝗅𝗌. 𝖨 𝖾𝗇𝗃𝗈𝗒 𝖼𝗋𝖾𝖺𝗍𝗂𝗇𝗀 𝖺𝗇𝖽 𝗆𝖺𝗂𝗇𝗍𝖺𝗂𝗇𝗂𝗇𝗀 𝗋𝖾𝗌𝗉𝗈𝗇𝗌𝗂𝗏𝖾 𝗐𝖾𝖻𝗌𝗂𝗍𝖾𝗌 𝗎𝗌𝗂𝗇𝗀 𝗆𝗒 𝗄𝗇𝗈𝗐𝗅𝖾𝖽𝗀𝖾 𝗈𝖿 𝖧𝗍𝗆𝗅, 𝖢𝖲𝖲, 𝖺𝗇𝖽 𝖩𝖺𝗏𝖺𝖲𝖼𝗋𝗂𝗉𝗍 𝖺𝗌 𝗐𝖾𝗅𝗅 𝖺𝗌 𝖼𝗈𝗇𝗍𝖾𝗆𝗉𝗈𝗋𝖺𝗋𝗒 𝗅𝗂𝖻𝗋𝖺𝗋𝗂𝖾𝗌 𝖺𝗇𝖽 𝖿𝗋𝖺𝗆𝖾𝗐𝗈𝗋𝗄𝗌.
+I am more interested in hands-on training than just theory. My ability to learn quickly and adapt to new technologies will enable me to excel in any environment. I can guarantee you that if you give me a chance, you won't regret it. I am a hardworking, reliable individual who is committed to delivering high-quality results.
 
-𝖯𝖺𝗌𝗌𝗂𝗈𝗇𝖺𝗍𝖾 𝖺𝖻𝗈𝗎𝗍 𝗅𝖾𝖺𝗋𝗇𝗂𝗇𝗀 𝖺𝗇𝖽 𝖢𝖺𝗋𝖾𝖾𝗋 𝖦𝗋𝗈𝗐𝗍𝗁 𝗐𝗂𝗍𝗁 𝖺 𝖽𝖾𝗌𝗂𝗋𝖾 𝗍𝗈 𝖺𝗉𝗉𝗅𝗒 𝗌𝗄𝗂𝗅𝗅𝗌 𝗈𝗇 𝖺 𝗅𝖺𝗋𝗀𝖾𝗋 𝖽𝖾𝗏𝖾𝗅𝗈𝗉𝗆𝖾𝗇𝗍 𝗍𝖾𝖺𝗆 𝖺𝗇𝖽 𝖤𝖺𝗀𝖾𝗋 𝗍𝗈 𝗍𝖺𝖼𝗄𝗅𝖾 𝗆𝗈𝗋𝖾 𝖼𝗈𝗆𝗉𝗅𝖾𝗑 𝗉𝗋𝗈𝖻𝗅𝖾𝗆𝗌 𝖺𝗇𝖽 𝖼𝗈𝗇𝗍𝗂𝗇𝗎𝖾 𝗍𝗈 𝖿𝗂𝗇𝖽 𝗐𝖺𝗒𝗌 𝗍𝗈 𝗆𝖺𝗑𝗂𝗆𝗂𝗓𝖾 𝗎𝗌𝖾𝗋 𝖾𝖿𝖿𝗂𝖼𝗂𝖾𝗇𝖼𝗒.
+I am passionate about working in a larger development team that tackles challenging tasks and strives to improve user efficiency. My excellent organizational skills and positive attitude will enable me to successfully manage multiple priorities and work towards team goals. I am willing to take on additional responsibilities to help our team achieve success.
+
+I encourage you to take a look at my portfolio at https://janeduru.com. I am confident that I have the skills and qualifications necessary to be an asset to your organization.
+
+Thank you for your time, and I look forward to hearing from you soon.
+
 
 ⭑⭒꧂
 
