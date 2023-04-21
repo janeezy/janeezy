@@ -26,5 +26,5 @@ Thank you for your time, and I look forward to hearing from you soon.
 
 (❀❛ ֊ ❛„)♡ 
 
-🎉ඏ 🌷
+
 ⭑⭒꧂
