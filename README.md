@@ -22,7 +22,7 @@ Thank you for your time, and I look forward to hearing from you soon.
 
  
  💞️ 
-- 📫 say hi, find me on linkedin ... https://www.linkedin.com/in/janeezy
+- 📫 Say Hi, Add me on linkedin ... https://www.linkedin.com/in/janeezy
 
 (❀❛ ֊ ❛„)♡ 
 
