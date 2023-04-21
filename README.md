@@ -15,19 +15,21 @@ Thank you for your time, and I look forward to hearing from you soon.
 
 𝚖𝚢 𝚙𝚘𝚛𝚝𝚏𝚘𝚕𝚒o - https://janeduru.com 
 
-𝗦𝗸𝗶𝗹𝗹𝘀:
-𝗛𝗧𝗠𝗟𝟱 
-𝗖𝗦𝗦
-𝗝𝗮𝘃𝗮𝘀𝗰𝗿𝗶𝗽𝘁/𝗘𝗦𝟲+
-𝗥𝗲𝗮𝗰𝘁 𝗝𝗦 / 𝗥𝗲𝗱𝘂𝘅 
-𝗡𝗲𝘅𝘁 𝗷𝘀 / 𝐭𝐲𝐩𝐞𝐬𝐜𝐫𝐢𝐩𝐭 
-𝗚𝗶𝘁 / 𝗚𝗶𝘁 𝗪𝗼𝗿𝗸𝗳𝗹𝗼𝘄𝘀
-𝗕𝗼𝗼𝘁𝘀𝘁𝗿𝗮𝗽/𝗧𝗮𝗶𝗹𝘄𝗶𝗻𝗱 
-𝗗𝗲𝗯𝘂𝗴𝗴𝗶𝗻𝗴
-𝗧𝗲𝘀𝘁𝗶𝗻𝗴
-𝗣𝗿𝗼𝗯𝗹𝗲𝗺-𝘀𝗼𝗹𝘃𝗶𝗻𝗴
-𝗚𝗼𝗼𝗴𝗹𝗶𝗻𝗴 
-ℙ𝕣𝕠𝕞𝕡𝕥𝕤 /𝕔𝕙𝕒𝕥𝔾ℙ𝕋/ AI
+Skills:
+HTML5
+CSS/ Tailwind CSS
+Javascript/ES6+
+React JS/ Redux/ React Native
+UI UX Design
+Next Js/typescript 
+Github / Git Workflows
+Bootstrap
+Debugging
+Testing
+Problem-Solving
+Googling
+Prompts /ChatGPT/ AI
+
 
 
 (❀❛ ֊ ❛„)♡
