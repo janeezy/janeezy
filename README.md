@@ -1,3 +1,5 @@
+⭑⭒꧂
+
 My name is Jane Duru, and I am a self-taught front-end engineer who is ready to make an impact. With less than a year of experience, I have achieved a lot and am hungry for more opportunities to develop my programming skills.
 
 I am more interested in hands-on training than just theory. My ability to learn quickly and adapt to new technologies will enable me to excel in any environment. I can guarantee you that if you give me a chance, you won't regret it. I am a hardworking, reliable individual who is committed to delivering high-quality results.
@@ -15,6 +17,8 @@ Thank you for your time, and I look forward to hearing from you soon.
 💞️
 
 📫 Say Hi, Add me on linkedin ... https://www.linkedin.com/in/janeezy
+
+
 (❀❛ ֊ ❛„)♡
 
 ⭑⭒꧂
