@@ -11,10 +11,6 @@ I encourage you to take a look at my portfolio at https://janeduru.com. I am con
 Thank you for your time, and I look forward to hearing from you soon.
 
 
-𝐒𝐤𝐢𝐥𝐥𝐬: 𝐇𝐓𝐌𝐋𝟓, 𝐂𝐒𝐒,𝐓𝐚𝐢𝐥𝐰𝐢𝐧𝐝 𝐂𝐒𝐒, 𝐉𝐚𝐯𝐚𝐬𝐜𝐫𝐢𝐩𝐭 𝐄𝐒𝟔+, 𝐑𝐞𝐚𝐜𝐭 𝐉𝐒, 𝐑𝐞𝐝𝐮𝐱, 𝐑𝐞𝐚𝐜𝐭 𝐍𝐚𝐭𝐢𝐯𝐞,𝐔𝐈 𝐔𝐗 𝐃𝐞𝐬𝐢𝐠𝐧, 𝐍𝐞𝐱𝐭 𝐉𝐬/𝐭𝐲𝐩𝐞𝐬𝐜𝐫𝐢𝐩𝐭, 𝐆𝐢𝐭𝐡𝐮𝐛 / 𝐆𝐢𝐭 𝐖𝐨𝐫𝐤𝐟𝐥𝐨𝐰𝐬, 𝐁𝐨𝐨𝐭𝐬𝐭𝐫𝐚𝐩, 𝐃𝐞𝐛𝐮𝐠𝐠𝐢𝐧𝐠, 𝐓𝐞𝐬𝐭𝐢𝐧𝐠, 𝐏𝐫𝐨𝐛𝐥𝐞𝐦-𝐒𝐨𝐥𝐯𝐢𝐧𝐠, 𝐆𝐨𝐨𝐠𝐥𝐢𝐧𝐠, 𝐏𝐫𝐨𝐦𝐩𝐭𝐬 𝐂𝐡𝐚𝐭𝐆𝐏𝐓
-
-💞️
-
 📫 Say Hi, Add me on linkedin ... https://www.linkedin.com/in/janeezy
 
 
