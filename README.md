@@ -12,7 +12,7 @@
   
   </div>
   
-  Hey there! 👋 I'm Jane Duru, a self-taught front-end engineer ready to make an impact. With less than a year of experience, I've already achieved a lot and I'm hungry for more opportunities to develop my programming skills.
+  Hey there! 👋 I'm Jane Duru, a self-taught front-end engineer ready to make an impact. With a working experience, I've already achieved a lot and I'm hungry for more opportunities to develop my programming skills.
   
   🚀 Passionate about Growth: I love contributing to larger development teams and taking on exciting freelance projects.
   
