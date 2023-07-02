@@ -2,6 +2,7 @@
 <div class="container">
   <div align="center">
   
+  
   # ⭑⭒꧂ Jane Duru ⭑⭒꧂
   ### Self-taught Front-end Engineer | Passionate about Growth and Innovation
   
@@ -22,7 +23,6 @@
   
   💡 Innovative Solutions: I enjoy tackling new challenges and maximizing user efficiency through innovative solutions and process optimization. Let's work together to bring your project to the next level!
   
-  🌍 Location: Lisbon Portugal
   
   🔍 Explore my portfolio at [janeduru.com](https://janeduru.com). I'm confident that my skills and qualifications will be an asset to your organization or projects.
   
