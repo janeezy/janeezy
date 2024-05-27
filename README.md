@@ -24,8 +24,6 @@
   💡 Innovative Solutions: I enjoy tackling new challenges and maximizing user efficiency through innovative solutions and process optimization. Let's work together to bring your project to the next level!
   
   
-  🔍 Explore my portfolio at [janeduru.com](https://janeduru.com). I'm confident that my skills and qualifications will be an asset to your organization or projects.
-  
   <div align="center">
   
   📫 Say Hi and Connect with me on [LinkedIn](https://www.linkedin.com/in/janeezy). I'd love to hear from you!
