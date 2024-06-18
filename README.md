@@ -3,7 +3,7 @@
   <div align="center">
   
   
-  # ⭑⭒꧂Ezinne Jane Duru ⭑⭒꧂
+  # ⭑⭒꧂ Ezinne Jane Duru ⭑⭒꧂
   ### Self-taught Front-end Engineer | Passionate about Growth and Innovation
   
   </div>
