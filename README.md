@@ -3,7 +3,7 @@
   <div align="center">
   
 
-# ⭑⭒꧂ Ezinne Jane Duru ⭑⭒꧂
+# ⭑⭒꧂  Jane Duru ⭑⭒꧂
 
 ### Front-end Engineer | Innovation-Driven | Ready to Deliver
 
