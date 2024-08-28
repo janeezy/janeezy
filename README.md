@@ -2,28 +2,21 @@
 <div class="container">
   <div align="center">
   
-  
-  # ⭑⭒꧂ Ezinne Jane Duru ⭑⭒꧂
-  ### Self-taught Front-end Engineer | Passionate about Growth and Innovation
-  
-  </div>
-  
-  <div align="center">
- 
-  
-  </div>
-  
-  Hey there! 👋 I'm Jane Duru, a self-taught front-end engineer ready to make an impact. With a working experience, I've already achieved a lot and I'm hungry for more opportunities to develop my programming skills.
-  
-  🚀 Passionate about Growth: I love contributing to larger development teams and taking on exciting freelance projects.
-  
-  🌐 Expertise: HTML | CSS | JavaScript | React | Contemporary libraries/frameworks
-  
-  🎨 Craft Responsive Websites: I'm adept at creating and maintaining responsive websites that adapt to any screen size.
-  
-  💡 Innovative Solutions: I enjoy tackling new challenges and maximizing user efficiency through innovative solutions and process optimization. Let's work together to bring your project to the next level!
-  
-  
+
+# ⭑⭒꧂ Ezinne Jane Duru ⭑⭒꧂
+
+### Front-end Engineer | Innovation-Driven | Ready to Deliver
+
+Hey there! 👋 I'm Jane Duru, a self-taught front-end engineer with a passion for creating impactful digital experiences. I'm all about growth, innovation, and delivering top-notch solutions.
+
+🚀 **Always Evolving**: Thriving in dynamic teams and embracing freelance opportunities.
+
+🌐 **Skills**: HTML | CSS | JavaScript | React | Modern Frameworks
+
+🎨 **Responsive Design**: Expert in building websites that look great on any screen.
+
+💡 **Problem Solver**: Dedicated to optimizing user experiences with innovative solutions. Let's bring your project to life!
+
   <div align="center">
   
   📫 Say Hi and Connect with me on [LinkedIn](https://www.linkedin.com/in/janeezy). I'd love to hear from you!
