@@ -26,23 +26,10 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=janeezy&theme=radical" alt="Jane's GitHub Streaks" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=janeezy&layout=compact&theme=radical" alt="Top Languages" />
 
-  <!-- Featured Projects -->
-  <h3>🚀 Featured Projects</h3>
-  <table>
-    <tr>
-      <td><a href="https://github.com/janeezy/React-Portfolio "><img src="https://github-readme-stats.vercel.app/api/pin/?username=janeezy&repo=project1&theme=radical" alt="Project 1" /></a></td>
-      <td><a href="https://github.com/janeezy/Wakimi-Hostel-updated"><img src="https://github-readme-stats.vercel.app/api/pin/?username=janeezy&repo=project2&theme=radical" alt="Project 2" /></a></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/janeezy/Shopping-Mart"><img src="https://github-readme-stats.vercel.app/api/pin/?username=janeezy&repo=project3&theme=radical" alt="Project 3" /></a></td>
-      <td><a href="https://github.com/janeezy/jdshop "><img src="https://github-readme-stats.vercel.app/api/pin/?username=janeezy&repo=project4&theme=radical" alt="Project 4" /></a></td>
-    </tr>
-  </table>
 
-  <!-- Social Links -->
-  <h3>🌐 Let's Connect!</h3>
-  <p>
-    <a href="https://www.linkedin.com/in/janeezy"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-    <a href="https://github.com/janeezy"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" /></a>
-  </p>
-</div>
+<h3>🌐 Let's Connect!</h3>
+<p>
+  <a href="https://www.linkedin.com/in/janeezy"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/janeezy"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.janeduru.site/"><img src="https://img.shields.io/badge/Website-%23121011.svg?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+</p>
