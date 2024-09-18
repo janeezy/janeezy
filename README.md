@@ -4,7 +4,7 @@
 
   <!-- Name and Title -->
   <h2>⭑⭒꧂ Jane Duru ⭑⭒꧂</h2>
-  <h4>Front-end Engineer | Innovation-Driven | Ready to Deliver</h4>
+  <h4>Frontend Developer | Innovation-Driven | Ready to Deliver</h4>
 
   <!-- Short Introduction -->
   <p>Hey there! 👋 I'm a self-taught front-end engineer with a passion for impactful digital experiences, innovation, and delivering top-notch solutions.</p>
