@@ -30,12 +30,12 @@
   <h3>🚀 Featured Projects</h3>
   <table>
     <tr>
-      <td><a href="https://github.com/janeezy/project1"><img src="https://github-readme-stats.vercel.app/api/pin/?username=janeezy&repo=project1&theme=radical" alt="Project 1" /></a></td>
-      <td><a href="https://github.com/janeezy/project2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=janeezy&repo=project2&theme=radical" alt="Project 2" /></a></td>
+      <td><a href="https://github.com/janeezy/React-Portfolio "><img src="https://github-readme-stats.vercel.app/api/pin/?username=janeezy&repo=project1&theme=radical" alt="Project 1" /></a></td>
+      <td><a href="https://github.com/janeezy/Wakimi-Hostel-updated"><img src="https://github-readme-stats.vercel.app/api/pin/?username=janeezy&repo=project2&theme=radical" alt="Project 2" /></a></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/janeezy/project3"><img src="https://github-readme-stats.vercel.app/api/pin/?username=janeezy&repo=project3&theme=radical" alt="Project 3" /></a></td>
-      <td><a href="https://github.com/janeezy/project4"><img src="https://github-readme-stats.vercel.app/api/pin/?username=janeezy&repo=project4&theme=radical" alt="Project 4" /></a></td>
+      <td><a href="https://github.com/janeezy/Shopping-Mart"><img src="https://github-readme-stats.vercel.app/api/pin/?username=janeezy&repo=project3&theme=radical" alt="Project 3" /></a></td>
+      <td><a href="https://github.com/janeezy/jdshop "><img src="https://github-readme-stats.vercel.app/api/pin/?username=janeezy&repo=project4&theme=radical" alt="Project 4" /></a></td>
     </tr>
   </table>
 
