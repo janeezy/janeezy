@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Profile Image -->
-  <img src="https://ibb.co/KGm3Z2p" alt="Jane Duru" />
+  <img src="[https://ibb.co/KGm3Z2p](https://scontent.flis6-2.fna.fbcdn.net/v/t39.30808-6/448680134_7661814990522259_5206122913872387010_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=nibi9Q9UfjAQ7kNvgFUZS-3&_nc_ht=scontent.flis6-2.fna&_nc_gid=A7CRyYegN_55n5BwXTu_pvr&oh=00_AYCIFmVnti_-4SdHjyhpZVEAlIm63UEh9AlyEctlwJAlgQ&oe=66F43834)" alt="Jane Duru" />
 
   <!-- Name and Title -->
   <h2>⭑⭒꧂ Jane Duru ⭑⭒꧂</h2>
