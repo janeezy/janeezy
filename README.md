@@ -6,7 +6,7 @@
   <h4>Frontend Developer | Innovation-Driven | Ready to Deliver</h4>
 
   <!-- Short Introduction -->
-  <p>Hey there! 👋 I'm a self-taught front-end engineer with a passion for impactful digital experiences, innovation, and delivering top-notch solutions.</p>
+  <p>Hey there! 👋 I'm a frontend engineer with a passion for impactful digital experiences, innovation, and delivering top-notch solutions.</p>
   <p>🚀 Always Evolving | 💡 Problem Solver | 🎨 Responsive Design Expert</p>
 
   <!-- Skills & Tools -->
