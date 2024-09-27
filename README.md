@@ -1,6 +1,5 @@
 <div align="center">
-  <!-- Profile Image -->
-  <img src="https://www.imghippo.com/i/lIJYB1726906559.jpg" alt="Jane Duru" />
+  
 
   <!-- Name and Title -->
   <h2>⭑⭒꧂ Jane Duru ⭑⭒꧂</h2>
