@@ -17,7 +17,8 @@
   <!-- Current Work -->
   <p>
     <img src="https://img.shields.io/badge/🔭%20Currently%20Working%20On-Frontend%20Projects-brightgreen" alt="Current Work"/>
-    <img src="https://img.shields.io/badge/🌱%20Learning-Next.js-black" alt="Learning"/>
+    <img src="https://img.shields.io/badge/🌱%20Learning-React%20Native-blue" alt="Learning" />
+
   </p>
 
   <!-- Skills & Tools -->
