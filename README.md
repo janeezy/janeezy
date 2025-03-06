@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/github/last-commit/janeezy/janeezy?color=blue&label=Last%20Active&style=flat-square" alt="Last Commit"/>
   </p>
 
-  <!-- Short Introduction -->
+  <!-- Short Introduction --> 
   <p>Hey there! 👋 I'm a frontend engineer with a passion for impactful digital experiences, innovation, and delivering top-notch solutions.</p>
   <p>🚀 Always Evolving | 💡 Problem Solver | 🎨 Responsive Design Expert</p>
 
