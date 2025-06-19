@@ -8,6 +8,7 @@
   <p>
     <img src="https://komarev.com/ghpvc/?username=janeezy&color=blueviolet" alt="Profile Views" />
     <img src="https://img.shields.io/github/last-commit/janeezy/janeezy?color=blue&label=Last%20Active&style=flat-square" alt="Last Commit"/>
+    <img src="https://img.shields.io/github/commit-activity/m/janeezy/janeezy?color=brightgreen&label=Recent%20Commits&style=flat-square" alt="Commit Activity" />
   </p>
 
   <!-- Short Introduction --> 
@@ -17,9 +18,7 @@
   <!-- Current Work -->
   <p>
     <img src="https://img.shields.io/badge/🔭%20Currently%20Working%20On-Frontend%20Projects-brightgreen" alt="Current Work"/>
-   <img src="https://img.shields.io/badge/🌱%20Learning-Blockchain%20Development-blue" alt="Learning Blockchain" />
-
-
+    <img src="https://img.shields.io/badge/🌱%20Learning-Blockchain%20Development-blue" alt="Learning Blockchain" />
   </p>
 
   <!-- Skills & Tools -->
@@ -35,17 +34,9 @@
 
   <!-- GitHub Stats -->
   <h3>📊 GitHub Stats</h3>
-  
-  <!-- Custom Stats Card with More Activity Focus -->
   <img src="https://github-readme-stats.vercel.app/api?username=janeezy&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide=issues" alt="Jane's GitHub Stats" />
-  
-  <!-- Streak Stats with Custom Theme -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=janeezy&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="Jane's GitHub Streaks" />
-  
-  <!-- Language Stats with Custom Layout -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=janeezy&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streaks" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=janeezy&layout=compact&theme=radical&hide=html&langs_count=6" alt="Top Languages" />
-
-  <!-- Contribution Graph -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=janeezy&theme=radical" alt="Activity Graph"/>
 
   <!-- Let's Connect -->
