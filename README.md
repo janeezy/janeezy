@@ -1,52 +1,60 @@
 <div align="center">
+
+# Jane Duru
+
+**Fullstack Engineer** · Co-founder @ Zemio Labs
+
+[![Profile Views](https://komarev.com/ghpvc/?username=janeezy&color=6366f1)](https://github.com/janeezy)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/janeezy)
+[![Website](https://img.shields.io/badge/Portfolio-janeduru.site-000?style=flat&logo=google-chrome)](https://www.janeduru.site/)
+
+</div>
+
+---
+
+Building scalable systems at the intersection of payments, fintech, and emerging tech. 3 years of focused frontend work — and I make them count.
+
+### What I'm Working On
+
+🔧 **Payments Infrastructure** — Architecting APIs that integrate 200+ payment providers  
+📱 **MyBicho** *(in development)* — Building a plant & pet care app with AI-powered identification (React Native/Expo)  
+✍️ **Writing** — Exploring AI, systems thinking, and technology on social platforms
+
+### Tech Stack
+
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+
+### Background
+
+Not your typical dev path — started in medicine, pivoted through crypto/fintech sales, then found my home in engineering. This mix gives me a unique lens on building products that actually solve problems.
+
+<details>
+<summary><b>📊 GitHub Stats</b></summary>
+<br>
+<img src="https://github-readme-stats.vercel.app/api?username=janeezy&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide=issues" alt="GitHub Stats" />
+<br><br>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=janeezy&theme=tokyonight" alt="GitHub Streaks" />
+<br><br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=janeezy&layout=compact&theme=tokyonight&langs_count=8" alt="Top Languages" />
+</details>
+
+---
+
+<div align="center">
   
-  <!-- Name and Title -->
-  <h2>⭑⭒꧂ Jane Duru ⭑⭒꧂</h2>
-  <h4>Frontend Developer | Innovation-Driven | Ready to Deliver</h4>
+**Open to interesting collaborations and conversations.**
 
-  <!-- Activity Badges -->
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=janeezy&color=blueviolet" alt="Profile Views" />
-    <img src="https://img.shields.io/github/last-commit/janeezy/janeezy?color=blue&label=Last%20Active&style=flat-square" alt="Last Commit"/>
-    <img src="https://img.shields.io/github/commit-activity/m/janeezy/janeezy?color=brightgreen&label=Recent%20Commits&style=flat-square" alt="Commit Activity" />
-  </p>
-
-  <!-- Short Introduction --> 
-  <p>Hey there! 👋 I'm a frontend engineer with a passion for impactful digital experiences, innovation, and delivering top-notch solutions.</p>
-  <p>🚀 Always Evolving | 💡 Problem Solver | 🎨 Responsive Design Expert</p>
-
-  <!-- Current Work -->
-  <p>
-    <img src="https://img.shields.io/badge/🔭%20Currently%20Working%20On-Frontend%20Projects-brightgreen" alt="Current Work"/>
-    <img src="https://img.shields.io/badge/🌱%20Learning-Blockchain%20Development-blue" alt="Learning Blockchain" />
-  </p>
-
-  <!-- Skills & Tools -->
-  <h3>🚀 Skills & Tools</h3>
-  <p>
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-    <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  </p>
-
-  <!-- GitHub Stats -->
-  <h3>📊 GitHub Stats</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=janeezy&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide=issues" alt="Jane's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=janeezy&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streaks" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=janeezy&layout=compact&theme=radical&hide=html&langs_count=6" alt="Top Languages" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=janeezy&theme=radical" alt="Activity Graph"/>
-
-  <!-- Let's Connect -->
-  <h3>🌐 Let's Connect!</h3>
-  <p>
-    <a href="https://www.linkedin.com/in/janeezy"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-    <a href="https://github.com/janeezy"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" /></a>
-    <a href="https://www.janeduru.site/"><img src="https://img.shields.io/badge/Website-%23121011.svg?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
-  </p>
-
-  <!-- Footer -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling" width="100%"/>
 </div>
