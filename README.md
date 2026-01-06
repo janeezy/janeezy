@@ -7,8 +7,7 @@
   <!-- Activity Badges -->
   <p>
     <img src="https://komarev.com/ghpvc/?username=janeezy&color=blueviolet" alt="Profile Views" />
-    <img src="https://img.shields.io/github/last-commit/janeezy/janeezy?color=blue&label=Last%20Active&style=flat-square" alt="Last Commit"/>
-    <img src="https://img.shields.io/github/commit-activity/m/janeezy/janeezy?color=brightgreen&label=Recent%20Commits&style=flat-square" alt="Commit Activity" />
+    
   </p>
 
   <!-- Short Introduction --> 
