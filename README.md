@@ -24,7 +24,7 @@
     <tr>
       <td align="center" width="50%">
         <strong>🔥 Ohh</strong><br/>
-        <sub>58 decks · 3,300+ questions · iOS</sub><br/>
+        <sub>82 decks · 4000+ questions · iOS</sub><br/>
         <sub>React Native · Expo · NestJS · PostgreSQL</sub><br/>
         <a href="https://ohh.world">ohh.world</a> · <a href="https://apps.apple.com/app/ohh/id6759226145">App Store</a>
       </td>
