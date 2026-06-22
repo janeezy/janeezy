@@ -1,12 +1,4 @@
-<div align="center">
 
-  <!-- Header -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:C67B5C,100:7B5C7D&height=180&section=header&text=Jane%20Duru&fontSize=42&fontColor=FFFBF8&fontAlignY=35&desc=Frontend%20Engineer%20%C2%B7%20Co-Founder%20%40%20Zemio%20Labs&descSize=16&descAlignY=55&descColor=FFFBF8&animation=fadeIn" width="100%"/>
-
-  <!-- Intro -->
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=janeezy&color=C67B5C&style=flat-square&label=visitors" alt="Profile Views" />
-  </p>
 
   <p>Building products that make people feel something real.<br/>
   Currently shipping <a href="https://ohh.world"><strong>Ohh</strong></a> — a conversation app for couples, friends, and family.</p>
