@@ -21,6 +21,8 @@ Turning real problems into useful products.
 
 🔥 **AfterFight** — helping people reconnect after conflict.
 
+🧩 **The Riddle Playground** — building an animated interactive riddle game with Big Head and Side Eye (in development).
+
 <br/>
 
 Most of my active work lives in private repositories.
